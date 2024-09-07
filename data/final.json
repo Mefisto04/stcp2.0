@@ -1,0 +1,1586 @@
+[
+  {
+    "handle": "vynride",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:01"
+      },
+      {
+        "problem": "PyPy 3-64",
+        "solved_time": "00:04"
+      },
+      {
+        "problem": "PyPy 3-64",
+        "solved_time": "00:13"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:19"
+      }
+    ],
+    "rank": 1
+  },
+  {
+    "handle": "Shardul_7",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "C++17 (GCC 7-32)",
+        "solved_time": "00:18"
+      },
+      {
+        "problem": "C++17 (GCC 7-32)",
+        "solved_time": "00:09"
+      },
+      {
+        "problem": "C++17 (GCC 7-32)",
+        "solved_time": "00:16"
+      },
+      {
+        "problem": "C++17 (GCC 7-32)",
+        "solved_time": "00:25"
+      }
+    ],
+    "rank": 3
+  },
+  {
+    "handle": "ProCoder80",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "C++17 (GCC 7-32)",
+        "solved_time": "00:14"
+      },
+      {
+        "problem": "C++17 (GCC 7-32)",
+        "solved_time": "00:27"
+      },
+      {
+        "problem": "C++17 (GCC 7-32)",
+        "solved_time": "00:34"
+      },
+      {
+        "problem": "C++17 (GCC 7-32)",
+        "solved_time": "00:46"
+      }
+    ],
+    "rank": 5
+  },
+  {
+    "handle": "Prinxess",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:26"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:25"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:30"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:34"
+      }
+    ],
+    "rank": 7
+  },
+  {
+    "handle": "Saumya09",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:15"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:22"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:43"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "01:17"
+      }
+    ],
+    "rank": 9
+  },
+  {
+    "handle": "ujwalnandanwar",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:56"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:57"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "01:05"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "01:14"
+      }
+    ],
+    "rank": 11
+  },
+  {
+    "handle": "Glider_Vinnie",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "PyPy 3-64",
+        "solved_time": "00:23"
+      },
+      {
+        "problem": "PyPy 3-64",
+        "solved_time": "00:51"
+      },
+      {
+        "problem": "PyPy 3-64",
+        "solved_time": "01:51"
+      },
+      {
+        "problem": "PyPy 3-64",
+        "solved_time": "02:20"
+      }
+    ],
+    "rank": 13
+  },
+  {
+    "handle": "CW_Sujal",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:45"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:55"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "02:12"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "02:02"
+      }
+    ],
+    "rank": 15
+  },
+  {
+    "handle": "PushpanshTayal",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "02:12"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "02:18"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "02:22"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "02:26"
+      }
+    ],
+    "rank": 17
+  },
+  {
+    "handle": "Flying_Killer1107",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "Java 8",
+        "solved_time": "01:58"
+      },
+      {
+        "problem": "Java 8",
+        "solved_time": "02:10"
+      },
+      {
+        "problem": "Java 8",
+        "solved_time": "02:35"
+      },
+      {
+        "problem": "Java 8",
+        "solved_time": "03:23"
+      }
+    ],
+    "rank": 19
+  },
+  {
+    "handle": "KAIVZZ",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "Java 8",
+        "solved_time": "00:08"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "01:51"
+      },
+      {
+        "problem": "Java 8",
+        "solved_time": "00:18"
+      },
+      {
+        "problem": "Java 21",
+        "solved_time": "05:56"
+      }
+    ],
+    "rank": 21
+  },
+  {
+    "handle": "jhaadarsh709",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "01:12"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "04:22"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "04:39"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "04:59"
+      }
+    ],
+    "rank": 23
+  },
+  {
+    "handle": "Rjangid05",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "02:25"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "05:47"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "05:04"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "05:29"
+      }
+    ],
+    "rank": 25
+  },
+  {
+    "handle": "Rohit_64",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "Java 21",
+        "solved_time": "00:13"
+      },
+      {
+        "problem": "Java 21",
+        "solved_time": "00:51"
+      },
+      {
+        "problem": "Java 21",
+        "solved_time": "00:47"
+      },
+      {
+        "problem": "Java 21",
+        "solved_time": "21:54"
+      }
+    ],
+    "rank": 27
+  },
+  {
+    "handle": "srushtibansod",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:07"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "03:16"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "06:13"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "19:37"
+      }
+    ],
+    "rank": 29
+  },
+  {
+    "handle": "Aditya_Bharde",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "Java 8",
+        "solved_time": "04:28"
+      },
+      {
+        "problem": "Python 3",
+        "solved_time": "04:40"
+      },
+      {
+        "problem": "Java 8",
+        "solved_time": "04:55"
+      },
+      {
+        "problem": "Python 3",
+        "solved_time": "22:30"
+      }
+    ],
+    "rank": 31
+  },
+  {
+    "handle": "maybe_d",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "04:28"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "20:13"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "07:02"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "06:58"
+      }
+    ],
+    "rank": 33
+  },
+  {
+    "handle": "Pragnya_15_",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:06"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:57"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:14"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:51"
+      }
+    ],
+    "rank": 35
+  },
+  {
+    "handle": "Prabz_codes24",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "C++17 (GCC 7-32)",
+        "solved_time": "02:15"
+      },
+      {
+        "problem": "C++17 (GCC 7-32)",
+        "solved_time": "02:34"
+      },
+      {
+        "problem": "Python 3",
+        "solved_time": "21:24"
+      },
+      {
+        "problem": "Python 3",
+        "solved_time": "21:29"
+      }
+    ],
+    "rank": 37
+  },
+  {
+    "handle": "Anandi_Bhute",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "16:15"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "16:27"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "16:52"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "17:14"
+      }
+    ],
+    "rank": 39
+  },
+  {
+    "handle": "Devgoel162",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "03:18"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "20:53"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "21:35"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "22:21"
+      }
+    ],
+    "rank": 41
+  },
+  {
+    "handle": "shouryadeshmukh",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "19:10"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "19:19"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "19:28"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "20:03"
+      }
+    ],
+    "rank": 43
+  },
+  {
+    "handle": "muskan_kasat",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "21:07"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "21:46"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "21:41"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "21:38"
+      }
+    ],
+    "rank": 45
+  },
+  {
+    "handle": "purvallll",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "20:39"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "21:02"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "21:39"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "22:01"
+      }
+    ],
+    "rank": 47
+  },
+  {
+    "handle": "HarshItOut",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "Python 3",
+        "solved_time": "21:31"
+      },
+      {
+        "problem": "Python 3",
+        "solved_time": "21:37"
+      },
+      {
+        "problem": "Python 3",
+        "solved_time": "21:49"
+      },
+      {
+        "problem": "Python 3",
+        "solved_time": "21:58"
+      }
+    ],
+    "rank": 49
+  },
+  {
+    "handle": "garima__khushalani",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "C# 10",
+        "solved_time": "22:42"
+      },
+      {
+        "problem": "C# 10",
+        "solved_time": "22:08"
+      },
+      {
+        "problem": "C# 10",
+        "solved_time": "22:26"
+      },
+      {
+        "problem": "C# 10",
+        "solved_time": "23:09"
+      }
+    ],
+    "rank": 51
+  },
+  {
+    "handle": "pravesh_2006",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "22:47"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "22:02"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "22:16"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "22:45"
+      }
+    ],
+    "rank": 53
+  },
+  {
+    "handle": "Samit_2316",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "22:51"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "22:57"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:15"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:10"
+      }
+    ],
+    "rank": 55
+  },
+  {
+    "handle": "SamrudhiMadankar",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:29"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:32"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:17"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:25"
+      }
+    ],
+    "rank": 57
+  },
+  {
+    "handle": "aaryan77",
+    "solved_count": 4,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:35"
+      },
+      {
+        "problem": "Python 3",
+        "solved_time": "23:51"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:43"
+      },
+      {
+        "problem": "Python 3",
+        "solved_time": "23:49"
+      }
+    ],
+    "rank": 59
+  },
+  {
+    "handle": "Bhumika.197",
+    "solved_count": 3,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:09"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:44"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "03:15"
+      }
+    ],
+    "rank": 61
+  },
+  {
+    "handle": "nachiket_08",
+    "solved_count": 3,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "03:55"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "07:11"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "05:20"
+      }
+    ],
+    "rank": 63
+  },
+  {
+    "handle": "Shlok_Dwivedi",
+    "solved_count": 3,
+    "solved_problems": [
+      {
+        "problem": "Python 3",
+        "solved_time": "07:14"
+      },
+      {
+        "problem": "Python 3",
+        "solved_time": "07:10"
+      },
+      {
+        "problem": "Python 3",
+        "solved_time": "07:16"
+      }
+    ],
+    "rank": 65
+  },
+  {
+    "handle": "whois_d",
+    "solved_count": 3,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "20:11"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "07:01"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "06:56"
+      }
+    ],
+    "rank": 67
+  },
+  {
+    "handle": "AyushP_27",
+    "solved_count": 3,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:43"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "22:28"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "22:43"
+      }
+    ],
+    "rank": 69
+  },
+  {
+    "handle": "darky_souly",
+    "solved_count": 3,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "16:39"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "21:05"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "21:36"
+      }
+    ],
+    "rank": 71
+  },
+  {
+    "handle": "thrfs_",
+    "solved_count": 3,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "19:11"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "19:56"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "21:21"
+      }
+    ],
+    "rank": 73
+  },
+  {
+    "handle": "shailejas",
+    "solved_count": 3,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "20:09"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "20:34"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "22:22"
+      }
+    ],
+    "rank": 75
+  },
+  {
+    "handle": "creamcheese",
+    "solved_count": 3,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "20:33"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "20:39"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:28"
+      }
+    ],
+    "rank": 77
+  },
+  {
+    "handle": "soumya_jodh",
+    "solved_count": 3,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "21:36"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "21:46"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "22:12"
+      }
+    ],
+    "rank": 79
+  },
+  {
+    "handle": "DecodeSoumya",
+    "solved_count": 3,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "21:53"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "22:14"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:07"
+      }
+    ],
+    "rank": 81
+  },
+  {
+    "handle": "ananya151205",
+    "solved_count": 3,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:18"
+      },
+      {
+        "problem": "Java 21",
+        "solved_time": "23:37"
+      },
+      {
+        "problem": "Java 21",
+        "solved_time": "23:45"
+      }
+    ],
+    "rank": 83
+  },
+  {
+    "handle": "divya_1511",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:53"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:59"
+      }
+    ],
+    "rank": 85
+  },
+  {
+    "handle": "Piyush_Dhanuka",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:27"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:37"
+      }
+    ],
+    "rank": 87
+  },
+  {
+    "handle": "vyakhyagoyal",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:54"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "01:27"
+      }
+    ],
+    "rank": 89
+  },
+  {
+    "handle": "sycno_",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:14"
+      },
+      {
+        "problem": "Python 3",
+        "solved_time": "01:50"
+      }
+    ],
+    "rank": 91
+  },
+  {
+    "handle": "anuragdharmik07",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "07:00"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "07:19"
+      }
+    ],
+    "rank": 93
+  },
+  {
+    "handle": "diyansh",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "07:53"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "08:08"
+      }
+    ],
+    "rank": 95
+  },
+  {
+    "handle": "Akshita2006",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:48"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "17:22"
+      }
+    ],
+    "rank": 97
+  },
+  {
+    "handle": "Mahi_2006",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:10"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:26"
+      }
+    ],
+    "rank": 99
+  },
+  {
+    "handle": "Pranjalb37",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "00:21"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:33"
+      }
+    ],
+    "rank": 101
+  },
+  {
+    "handle": "Izvarad",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "05:44"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "16:45"
+      }
+    ],
+    "rank": 103
+  },
+  {
+    "handle": "rounakkm",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "17:13"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "18:06"
+      }
+    ],
+    "rank": 105
+  },
+  {
+    "handle": "shrutiahir294",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "18:07"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "18:25"
+      }
+    ],
+    "rank": 107
+  },
+  {
+    "handle": "ninad_vande32",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "19:26"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "19:13"
+      }
+    ],
+    "rank": 109
+  },
+  {
+    "handle": "noledge69",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "20:26"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "20:49"
+      }
+    ],
+    "rank": 111
+  },
+  {
+    "handle": "gargik75",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "17:52"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:19"
+      }
+    ],
+    "rank": 113
+  },
+  {
+    "handle": "Siddhant_31",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "18:46"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:45"
+      }
+    ],
+    "rank": 115
+  },
+  {
+    "handle": "Mithilesh_788",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "21:14"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "22:05"
+      }
+    ],
+    "rank": 117
+  },
+  {
+    "handle": "Madhura_Mahatme",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "21:46"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "22:06"
+      }
+    ],
+    "rank": 119
+  },
+  {
+    "handle": "Omegatheeta",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:51"
+      },
+      {
+        "problem": "Python 3",
+        "solved_time": "17:49"
+      }
+    ],
+    "rank": 120
+  },
+  {
+    "handle": "beastvir03",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "21:29"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "21:43"
+      }
+    ],
+    "rank": 123
+  },
+  {
+    "handle": "GlitchGuru",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "17:56"
+      },
+      {
+        "problem": "PyPy 3-64",
+        "solved_time": "23:58"
+      }
+    ],
+    "rank": 125
+  },
+  {
+    "handle": "BonsaiBoy",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "22:17"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "22:27"
+      }
+    ],
+    "rank": 127
+  },
+  {
+    "handle": "Kairyooo",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "21:28"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "21:50"
+      }
+    ],
+    "rank": 129
+  },
+  {
+    "handle": "Harshita..Ag",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "22:15"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "22:57"
+      }
+    ],
+    "rank": 131
+  },
+  {
+    "handle": "Rishijr007",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:01"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:16"
+      }
+    ],
+    "rank": 133
+  },
+  {
+    "handle": "Pradyun_itis",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "22:24"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:22"
+      }
+    ],
+    "rank": 135
+  },
+  {
+    "handle": "MeenakshiM",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:21"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:30"
+      }
+    ],
+    "rank": 137
+  },
+  {
+    "handle": "0pium",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:34"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:48"
+      }
+    ],
+    "rank": 139
+  },
+  {
+    "handle": "Raj_Lahadke",
+    "solved_count": 2,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:04"
+      },
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:22"
+      }
+    ],
+    "rank": 141
+  },
+  {
+    "handle": "Devesh_Kahar",
+    "solved_count": 1,
+    "solved_problems": [
+      {
+        "problem": "C++20 (GCC 13-64)",
+        "solved_time": "01:02"
+      }
+    ],
+    "rank": 143
+  },
+  {
+    "handle": "AVJ2006",
+    "solved_count": 1,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "01:09"
+      }
+    ],
+    "rank": 145
+  },
+  {
+    "handle": "Aryan_225",
+    "solved_count": 1,
+    "solved_problems": [
+      {
+        "problem": "C++17 (GCC 7-32)",
+        "solved_time": "01:50"
+      }
+    ],
+    "rank": 147
+  },
+  {
+    "handle": "Anshul.20",
+    "solved_count": 1,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "02:53"
+      }
+    ],
+    "rank": 149
+  },
+  {
+    "handle": "Goutami",
+    "solved_count": 1,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "03:20"
+      }
+    ],
+    "rank": 151
+  },
+  {
+    "handle": "Issue1901",
+    "solved_count": 1,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "05:28"
+      }
+    ],
+    "rank": 153
+  },
+  {
+    "handle": "troop_dust_07",
+    "solved_count": 1,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "05:35"
+      }
+    ],
+    "rank": 155
+  },
+  {
+    "handle": "AditiGupta217",
+    "solved_count": 1,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "16:42"
+      }
+    ],
+    "rank": 157
+  },
+  {
+    "handle": "kripa_tawri",
+    "solved_count": 1,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "18:21"
+      }
+    ],
+    "rank": 159
+  },
+  {
+    "handle": "Azmahmad.06",
+    "solved_count": 1,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "19:51"
+      }
+    ],
+    "rank": 161
+  },
+  {
+    "handle": "Devashree__01",
+    "solved_count": 1,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "19:57"
+      }
+    ],
+    "rank": 163
+  },
+  {
+    "handle": "Beginner_luck312",
+    "solved_count": 1,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "21:01"
+      }
+    ],
+    "rank": 165
+  },
+  {
+    "handle": "VinamraChandak_13",
+    "solved_count": 1,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "21:31"
+      }
+    ],
+    "rank": 167
+  },
+  {
+    "handle": "Apoorva._18",
+    "solved_count": 1,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "22:13"
+      }
+    ],
+    "rank": 169
+  },
+  {
+    "handle": "devanshavchat8208",
+    "solved_count": 1,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "22:07"
+      }
+    ],
+    "rank": 171
+  },
+  {
+    "handle": "Sankalp_scripts",
+    "solved_count": 1,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "22:55"
+      }
+    ],
+    "rank": 173
+  },
+  {
+    "handle": "Singanabalaji",
+    "solved_count": 1,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "21:22"
+      }
+    ],
+    "rank": 175
+  },
+  {
+    "handle": "kritika_yadav",
+    "solved_count": 1,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:43"
+      }
+    ],
+    "rank": 177
+  },
+  {
+    "handle": "Pradaksh_Sawai",
+    "solved_count": 1,
+    "solved_problems": [
+      {
+        "problem": "Python 3",
+        "solved_time": "23:58"
+      }
+    ],
+    "rank": 179
+  },
+  {
+    "handle": "Mann62",
+    "solved_count": 1,
+    "solved_problems": [
+      {
+        "problem": "C++23 (GCC 14-64, msys2)",
+        "solved_time": "22:51"
+      }
+    ],
+    "rank": 181
+  },
+  {
+    "handle": "Taukir__",
+    "solved_count": 1,
+    "solved_problems": [
+      {
+        "problem": "GNU C11",
+        "solved_time": "23:42"
+      }
+    ],
+    "rank": 183
+  }
+]
