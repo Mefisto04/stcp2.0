@@ -35,7 +35,7 @@ export function Navbar() {
       </div>
       <div className="flex items-center gap-11 text-xl uppercase max-md:hidden">
         <Link
-          href="https://developers.google.com/community/gdsc"
+          href="/"
           text="Home"
           newTab
         />
